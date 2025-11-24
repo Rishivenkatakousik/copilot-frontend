@@ -21,11 +21,7 @@ A modern, Frontend AI-powered code generation application built with Next.js 15,
 
 - Python
 - JavaScript
-- TypeScript
-- Java
 - C++
-- Go
-- C#
 
 ### Technical Features
 
